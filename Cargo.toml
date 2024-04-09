@@ -1,0 +1,9 @@
+[package]
+name = "sort"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nannou = "0.19.0"
+nannou_audio = "0.19.0"
+rand = "0.8.5"
